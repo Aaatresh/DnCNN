@@ -40,7 +40,7 @@ Results:
  <table style="width:100%">
   <tr>
     <th>Image</th>
-    <th>standard deviation of noise</th>
+    <th>Standard Deviation of Noise</th>
     <th>Input PSNR(dB)</th>
     <th>Input SSIM</th>
     <th>Output PSNR(dB)</th>
