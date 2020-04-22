@@ -7,9 +7,9 @@ References: [Beyond a Gaussian Denoiser: Residual Learning of
 Deep CNN for Image Denoising][1].
 
 <figure>
-  <img src="./results/tiger_noisy.png" alt="noisy_tiger" width = 100px>
+  <img src="./results/tiger_noisy.png" alt="noisy_tiger" width = 300px>
   <figcaption>Noisy image of a Tiger</figcaption>
-  <img src="./results/tiger_denoised.png" alt="denoised_tiger" width = 100px>
+  <img src="./results/tiger_denoised.png" alt="denoised_tiger" width = 300px>
   <figcaption>Denoised image of a Tiger</figcaption>
 </figure>
 
