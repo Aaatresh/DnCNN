@@ -69,5 +69,12 @@ Run cells of:
 ```
    ./code/DnCNN_sigmix.ipynb on jupyter notebook
 ```
+for a range of standard deviations of noise.
+
+Run cells of:
+```
+   ./code/DnCNN_sig25.ipynb on jupyter notebook
+```
+for a standard deviations of noise = 25.
 
   [1]: <https://ieeexplore.ieee.org/document/7839189>
