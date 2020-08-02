@@ -64,5 +64,10 @@ Results:
   </tr>
 </table> 
 
+# Running Code
+Run cells of:
+```
+   ./code/DnCNN_sigmix.ipynb on jupyter notebook
+```
 
   [1]: <https://ieeexplore.ieee.org/document/7839189>
