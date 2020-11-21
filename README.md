@@ -11,7 +11,7 @@ The denoising convolutional neural network has been implemented here for the pur
 
 This network has been trained for noise with <b>standard deviation in the range of 5 to 40.</b>
 
-## Results:
+## Results
 
 <figure>
   <img src="./results/tiger_noisy.png" alt="noisy_tiger" width = 300px>
