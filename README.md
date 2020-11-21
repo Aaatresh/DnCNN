@@ -5,9 +5,13 @@ An implementation of a CNN denoiser!
 References: [Beyond a Gaussian Denoiser: Residual Learning of
 Deep CNN for Image Denoising][1].
 
+## Description
+
+The denoising convolutional neural network has been implemented here for the purpose of using it as a "plug n play" denoiser. Through this implementation, the DnCNN can be trained and tested using pairs of noisy and clean data.
+
 This network has been trained for noise with <b>standard deviation in the range of 5 to 40.</b>
 
-Results:
+## Results:
 
 <figure>
   <img src="./results/tiger_noisy.png" alt="noisy_tiger" width = 300px>
@@ -64,7 +68,18 @@ Results:
   </tr>
 </table> 
 
-# Running Code
+## Getting Started
+
+### Dependencies
+* Python >= 3.6
+
+### Installing
+```
+  git clone https://github.com/Aaatresh/DnCNN
+```
+
+### Executing program
+
 Run cells of:
 ```
    ./code/DnCNN_sigmix.ipynb on jupyter notebook
@@ -76,5 +91,19 @@ Run cells of:
    ./code/DnCNN_sig25.ipynb on jupyter notebook
 ```
 for a standard deviations of noise = 25.
+
+
+## Authors
+Contributors names and contact info:
+* Anirudh Aatresh (aaa.171ec106@nitk.edu.in)
+
+## Version History
+* 0.1
+    * Initial Release
+
+## License
+
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+
 
   [1]: <https://ieeexplore.ieee.org/document/7839189>
